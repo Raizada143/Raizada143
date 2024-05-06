@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shekhar raizada
-- 👀 I’m interested in PHOTOGRAPHY and COADING
+- 👀 I’m interested in PHOTOGRAPHY and CODING
 - 🌱 I’m currently learning HTML
 
 <!---
